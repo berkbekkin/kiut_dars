@@ -3,7 +3,7 @@ import './App.css';
 
 
 
-import Rasm from './IMG_2553.PNG'
+import Rasm from './rasm1.png'
 
 
 
@@ -11,7 +11,7 @@ import Rasm from './IMG_2553.PNG'
 function App() {
   return (
     <div className="App">
-
+<h1>Namuna</h1>
 
         <img src={Rasm} width={800} alt=""/>
 
