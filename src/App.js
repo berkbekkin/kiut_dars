@@ -3,7 +3,7 @@ import './App.css';
 
 
 
-import Rasm from './rasm1.png'
+import Rasm from './rasm2.png'
 
 
 
